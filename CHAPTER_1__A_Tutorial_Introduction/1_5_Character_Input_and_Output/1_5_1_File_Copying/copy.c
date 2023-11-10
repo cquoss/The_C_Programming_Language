@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /* copy input to output; 1st version */
-int main() {
+main()
+{
 	int c;
 	c = getchar();
 	while (c != EOF) {
@@ -9,4 +10,3 @@ int main() {
 		c = getchar();
 	}
 }
-

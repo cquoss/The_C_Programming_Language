@@ -1,5 +1,11 @@
 # Jetbrains CLion IdeaIU
 /.idea/
-/fahr
-/fahr2
-/hello
+
+# Executables
+/copy*
+/CHAPTER_1__A_Tutorial_Introduction/1_5_Character_Input_and_Output/1_5_1_File_Copying/copy2.c
+/fahr*
+/fahr2*
+/fahr3*
+/fahr4*
+/hello*
